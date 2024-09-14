@@ -9,11 +9,11 @@
 
 > 用户端
 
-![GIF 2024-9-14 15-32-37](files/GIF 2024-9-14 15-32-37.gif)
+![aaa](files/aaa.gif)
 
 > 管理端
 
-![GIF 2024-9-14 15-38-27](files/GIF 2024-9-14 15-38-27.gif)
+![bbbb](files/bbbb.gif)
 
 ## 安装教程🌞
 
